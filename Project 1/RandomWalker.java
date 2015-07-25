@@ -1,4 +1,4 @@
-// Alessio Mazzone CS 0401 ASSIGNMENT 1
+// CS 0401 ASSIGNMENT 1
 
 import java.util.Random;
 
