@@ -1,4 +1,4 @@
-//Alessio Mazzone CS401 Assignment 5
+//CS401 Assignment 5
 
 public class Tape{
     private String tape;
