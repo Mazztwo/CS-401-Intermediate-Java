@@ -1,4 +1,4 @@
-//Alessio Mazzone CS401 Assignment 3
+//CS401 Assignment 3
 //to run this program, type on the compiled program: java SmallestInsertion < tsp1000.txt
 
 import java.util.ArrayList;
