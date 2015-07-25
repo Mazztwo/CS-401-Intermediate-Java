@@ -1,4 +1,4 @@
-/*Alessio Mazzone CS 401 Assignment 3
+/* CS 401 Assignment 3
  *
  *  Compilation:  javac Point.java
  *  Execution:    java Point
