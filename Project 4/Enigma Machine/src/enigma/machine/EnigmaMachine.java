@@ -4,10 +4,8 @@
  */
 package enigma.machine;
 
-/**
- *
- * @author Alessio
- */
+
+
 public class EnigmaMachine {
 
     /**
