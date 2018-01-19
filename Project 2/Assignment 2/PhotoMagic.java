@@ -1,4 +1,3 @@
-// CS 0401 Assignment 2
 //This program takes the pipe photo and encrypts it. If you run te program on the encrypted photo, the original will be shown
 //To run this program, provide type a picture name, a string of bits and a tapbit in the command line.
 
