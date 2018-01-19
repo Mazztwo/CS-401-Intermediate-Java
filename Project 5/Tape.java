@@ -1,4 +1,4 @@
-//CS401 Assignment 5
+//Project 5
 
 public class Tape{
     private String tape;
