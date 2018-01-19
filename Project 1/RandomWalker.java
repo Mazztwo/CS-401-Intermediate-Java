@@ -1,4 +1,4 @@
-// CS 0401 ASSIGNMENT 1
+// Project 1
 
 import java.util.Random;
 
