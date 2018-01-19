@@ -1,4 +1,3 @@
-//CS 401 Assignment 2 
 //Random Bit Generator Class
 //This program is a LFSR simulator used in the Photo Magic encryption program.
 
