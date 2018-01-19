@@ -1,4 +1,3 @@
-//CS 401 Assignment 4
 //Three Ring Disk class for Enygma GUI
 
 import java.util.*;
